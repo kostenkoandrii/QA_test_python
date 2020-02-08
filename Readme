@@ -1,0 +1,8 @@
+1. Use Python 3.
+2. Use Selenium WebDriver.
+3. Use modul time.
+4. Use moduls from child.py.
+5. test_for_chrom.py, test_for_firefox.py, child.py must be in the same folder.
+6. test_for_chrom.py - task solution with Chrome support.
+7. test_for_firefox.py - task solution with Firefox support.
+8. To start project you must to install ChromeDriver for Chrome support and Geckodriver for Firefox support.
